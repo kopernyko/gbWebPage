@@ -1,0 +1,41 @@
+body {
+    background-image: url("GB\ ICON\ 2\ N.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font: bold 80px "Monaco", monospace;
+}
+
+h2 {
+    text-align: center;
+    font: italic 20px "Monaco", monospace;
+}
+
+h3 {
+    text-align: center;
+    font: 30px "Monaco", monospace;
+}
+
+h4 {
+    text-align: center;
+    font: bold 20px "Monaco", monospace;
+}
+
+dt {
+    text-align: center;
+    font: bold 20px "Monaco", monospace;
+}
+
+dd {
+    text-align: center;
+    font: italic 20px "Monaco", monospace;
+}
+
+div {
+    text-align: center;
+}
